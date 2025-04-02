@@ -31,11 +31,6 @@ This repository contains a project aimed at customer segmentation for an online 
     - `Prediction_Model.ipynb` for prediction analysis
 
 ## 📜 **Results & Insights**  
-Here's a more concise version of the **Results & Insights** section:
-
----
-
-📜 **Results & Insights**  
 **Clustering**:  
 - Used **HDBScan** for clustering, enhanced with manual Grid Search to optimize parameters. The clustering effectively segmented customers into distinct groups based on their behaviors.
 
