@@ -23,7 +23,7 @@ This repository contains a project aimed at customer segmentation for an online 
 ## 🚀 **How to Run the Project**
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/clustering-prediction-onlinesales.git
+    git clone https://github.com/yourusername/clustering-prediction-online-sales.git
     ```
 
 2. **Open Jupyter Notebook** and run the `.ipynb` files:
