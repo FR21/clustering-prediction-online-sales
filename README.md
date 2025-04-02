@@ -6,14 +6,14 @@ This repository contains a project aimed at customer segmentation for an online 
 ## 📊 **Project Overview**
 
 ### 🏷️ **Clustering**  
-- Applied K-Means clustering to segment customers based on their purchasing behavior.  
-- Used the Elbow Method and Silhouette Score to determine the optimal number of clusters.  
-- **Dataset**: `customer_data.csv`
+- Applied HDBScan for customer segmentation, optimized using a manual Grid Search to find the best parameters.
+- Effectively grouped customers based on purchasing behavior.
+- **Dataset**: `Dataset_clustering.csv`
 
 ### 🔍 **Prediction**  
 - Built classification models (Logistic Regression, Random Forest) to predict customer categories or purchasing behavior.  
 - Evaluated models using accuracy, precision, recall, and F1-score.  
-- **Dataset**: `sales_data.csv`
+- **Dataset**: `Dataset_inisiasi.csv`
 
 ## 🛠️ **Tech Stack**  
 - **Programming Language**: Python 🐍  
